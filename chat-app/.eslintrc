@@ -1,0 +1,10 @@
+// # Name : Poojanbhai N Patel
+// # Student ID : 1001827807
+// https://github.com/avrj/slack-clone/blob/master/.eslintrc
+
+{
+    "parser": "babel-eslint",
+    "rules": {
+      "comma-dangle": ["error", "always-multiline"]
+    }
+  }

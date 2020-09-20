@@ -1,0 +1,3 @@
+# https://github.com/avrj/slack-clone/blob/master/.gitignore
+node_modules
+.env
